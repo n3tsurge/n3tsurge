@@ -1,4 +1,5 @@
-### Hi there 👋
+[![N3tsurge's GitHub stats](https://github-readme-stats.vercel.app/api?username=n3tsurge)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **n3tsurge/n3tsurge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
