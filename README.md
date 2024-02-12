@@ -1,4 +1,4 @@
-[![N3tsurge's GitHub stats](https://github-readme-stats.vercel.app/api?username=n3tsurge)](https://github.com/anuraghazra/github-readme-stats)
+[![N3tsurge's GitHub stats](https://github-readme-stats.vercel.app/api?username=n3tsurge&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Bio
 CTO @ H&A Security Solutions - Security Engineer
