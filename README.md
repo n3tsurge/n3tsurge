@@ -5,8 +5,8 @@ Information Security Leader/Engineer and tool developer.
 
 # Projects
 
-[ReflexSOAR](https://github.com/reflexsoar)
-[Guardicore Tools(https://github.com/n3tsurge/guardicore-tools)
+- [ReflexSOAR](https://github.com/reflexsoar)
+- [Guardicore Tools](https://github.com/n3tsurge/guardicore-tools)
 <!--
 **n3tsurge/n3tsurge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
