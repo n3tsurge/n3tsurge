@@ -5,7 +5,7 @@ Information Security Leader/Engineer and tool developer.
 
 # Projects
 
-- [Storehouse](https://storehouse security.com)
+- [Storehouse](https://storehousesecurity.com)
 <!--
 **n3tsurge/n3tsurge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
